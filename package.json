@@ -43,7 +43,7 @@
     "selendroid-simple": "mocha selendroid-simple.js"
   },
   "dependencies": {
-    "selenium-webdriver": "^3.0.0-beta-3",
+    "selenium-webdriver": "^4.1.0",
     "wd-bridge": "0.0.2",
     "yiewd": "^0.6.0"
   }
